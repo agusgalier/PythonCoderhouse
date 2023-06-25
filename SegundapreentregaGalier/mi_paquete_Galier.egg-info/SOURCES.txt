@@ -1,0 +1,7 @@
+setup.py
+SegundapreentregaGalier/mi_paquete/__init__.py
+SegundapreentregaGalier/mi_paquete/modulo1.py
+mi_paquete_Galier.egg-info/PKG-INFO
+mi_paquete_Galier.egg-info/SOURCES.txt
+mi_paquete_Galier.egg-info/dependency_links.txt
+mi_paquete_Galier.egg-info/top_level.txt
